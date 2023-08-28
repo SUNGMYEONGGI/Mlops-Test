@@ -31,7 +31,7 @@ MLOps는 DevOps 과정에 머신러닝을 트레이닝/테스트/모델생성/�
 
 1️⃣ 공식 [repository](https://github.com/Azure/mlops-v2) 이동
 
-2️⃣template 복사를 수행
+2️⃣ template 복사를 수행
 
 <img src="https://github.com/SUNGMYEONGGI/image/blob/main/%EA%B7%B8%EB%A6%BC1.png?raw=true" width="600" height="300">
 
