@@ -6,9 +6,9 @@ variables:
   # Global
   ap_vm_image: ubuntu-20.04
 
-  namespace: dlopsv2 #Note: A namespace with many characters will cause storage account creation to fail due to storage account names having a limit of 24 characters.
+  namespace: opsv2 #Note: A namespace with many characters will cause storage account creation to fail due to storage account names having a limit of 24 characters.
   postfix: 0001
-  location: Koreacentral
+  # location: Koreacentral
   environment: prod
   enable_aml_computecluster: true
   enable_monitoring: false
